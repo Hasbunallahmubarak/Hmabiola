@@ -1,9 +1,10 @@
 @charset "UTF-8";
 *{margin: 0px; box-sizing: border-box;}
-html,body{height: 100%;}html{scroll-behavior: smooth;} 
+html,body{height: 100%;}
+html{scroll-behavior: smooth;} 
 body{font-family: verdana, sans-serif;background-color: #fff;z-index: -1;}
 .bg {
-	background-image: url('../images/background.jpg');
+	background-image: url('../images/background.JPG');
 	background-position: center; 
 	background-attachment: fixed;
 	background-repeat: no-repeat;
