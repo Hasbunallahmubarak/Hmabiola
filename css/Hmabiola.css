@@ -4,7 +4,7 @@ html,body{height: 100%;}
 html{scroll-behavior: smooth;} 
 body{font-family: verdana, sans-serif;background-color: #fff;z-index: -1;}
 .bg {
-	background-image: url('../images/background.JPG');
+	background-image: url('../images/background.jpg');
 	background-position: center; 
 	background-attachment: fixed;
 	background-repeat: no-repeat;
