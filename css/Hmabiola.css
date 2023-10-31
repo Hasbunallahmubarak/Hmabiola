@@ -1,7 +1,6 @@
 @charset "UTF-8";
 *{margin: 0px; box-sizing: border-box;}
-html,body{height: 100%;}
-html{scroll-behavior: smooth;} 
+html,body{height: 100%;}html{scroll-behavior: smooth;} 
 body{font-family: verdana, sans-serif;background-color: #fff;z-index: -1;}
 .bg {
 	background-image: url('../images/background.jpg');
@@ -332,14 +331,18 @@ footer a:hover {
 	.sub-contain{display: block;}
 	.content{padding: 20px;}
 	.first{width: 100%;}
-	.fixed{height: 100px;}
+	.fixed{height: 150px;}
 	.second{margin: 20px 0px;}
 	.awe{width: 100%;margin: 10px 0px;}
 	.bg{padding: 0px;}
-	.bg h1{font-size: 10vw;margin: 20px 0px;}
+	.bg h1{font-size: 12vw;margin: 20px 0px;}
 	.bg div{margin-top: 15vh; padding: 0px;}
 	.contact{display: block;}
+	#sixty{padding: 20px 5px;}
 	#mobile a{font-size: 3vw;}
 	.sixty h2{font-size: 25px;text-align: center;}
+	.sixty p{font-size: 12px;
+	line-height: 2em;text-align: justify;}
+	.preloader > div{width: 50px;height: 50px;}
 	.contact > div{width: 100%;}
 }
